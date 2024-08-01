@@ -42,7 +42,7 @@ export default function Home() {
               Github üzerinden bu sitenin şablonunu indirip kendi kişisel websiteni oluştur.
             </p>
             <div className="space-x-3">
-              <a href='https://github.com/luluwux/Portfolio-Website' className="inline-block rounded-lg bg-foreground text-background px-6 py-2 text-sm" target="_blank">
+              <a href='https://github.com/luluwux/Portfolio-V2' className="inline-block rounded-lg bg-foreground text-background px-6 py-2 text-sm" target="_blank">
                 Şablon
               </a>
               <a href='https://discord.gg/luppux' className="inline-block rounded-lg bg-foreground text-background px-6 py-2 text-sm" target="_blank">

@@ -1,8 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h2 align="center">
+💚 Portfolio
+  <a href="https://lulushuu.vercel.app" target="_blank">Website</a>
+- V2.0
+</h2>
+
+![Laptop](https://github.com/user-attachments/assets/a826bc86-1a70-4a6f-a394-67e9fe038b1a)
 
 ## Getting Started
 
-First, run the development server:
+1. Installation:
+```bash
+npm install
+```
+
+2. In the project directory, you can run:
 
 ```bash
 npm run dev
@@ -14,23 +25,23 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+5. You can start editing the page by modifying `src/contents/Sentences.tsx`.
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Supports
+
+- [My Discord Profile](https://discord.com/users/852103749228036136)
+
+- If you find any errors, you can contact luppux
+<br> </br>
+<p align="center">
+  <a href="https://discord.gg/luppux" target="_blank">
+    <img src="https://api.weblutions.com/discord/invite/luppux/" alt="Discord Banner">
+  </a>
+</p>

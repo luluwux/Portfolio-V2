@@ -29,6 +29,20 @@ bun dev
 
 5. You can start editing the page by modifying `src/contents/Sentences.tsx`.
 
+## Spotify Refresh Token
+
+Follow the steps below to get Spotify Refresh Token.
+
+1. Visit the Spotify [Spotify Refresh Token Website](https://spotify-refresh-tokens.vercel.app/?scope=user-read-playback-state&scope=user-read-currently-playing).
+2. Enter the Client ID and Client Secret you received from the Spotify Developer Portal
+3. Select the user-read-currently-playing, user-read-playback-state options. <br> </br>
+![image](https://github.com/user-attachments/assets/773bf42d-dde6-4579-a9f5-e8b7b2f54f24) <br> </br>
+4. Copy the redirect uri and add it to the Spotify Developer Portal.
+5. Click on the button and you now have a Refresh Token!
+
+- [Spotify Refresh Token Repo](https://github.com/luluwux/Spotify-Refresh-Token/)
+- [Spotify Refresh Token Website](https://spotify-refresh-tokens.vercel.app/?scope=user-read-playback-state&scope=user-read-currently-playing)
+
 ## Deploy on Vercel
 
 - The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
